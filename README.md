@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamasai&label=Profile%20views&color=0e75b6&style=flat" alt="satyamasai" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://satyamguptaportfolio.netlify.app/](https://satyamguptaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://satyamasai.github.io/]
 
 - 💬 Ask me about **React,MongoDB,Redux,Javascript,Node.js**
 
