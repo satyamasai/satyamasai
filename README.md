@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stymngrya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UEjwkyTh11LisM92upDy1uTDLvO_r5oQ/view](https://drive.google.com/file/d/1pnI-lsBWNuIXaFSv_RT78XLJqiB3FhNk/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LW5Suf1RVo92o8xmP46vAXHjAgV4mQYr/view?usp=share_link](https://drive.google.com/file/d/1pnI-lsBWNuIXaFSv_RT78XLJqiB3FhNk/view?usp=share_link)
 
 - ⚡ Fun fact **I am funny , Creative...**
 
